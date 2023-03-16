@@ -4,15 +4,9 @@ import styled from 'styled-components'
 import myImage from '../Resources/Images/profilePic.png'
 import backgroundImage from '../Resources/Images/backgroundHome.jpg';
 import signature from '../Resources/Images/signature.jpg';
-// import Resume from '../Resources/Files/Mohit_Sharma_Resume.pdf';
-// import { saveAs } from 'file-saver';
+
 const About = () => {
-    // const saveFile = () => {
-    //     saveAs(
-    //         `${Resume}`,
-    //         `Mohit Sharma_Resume.pdf`
-    //     )
-    // }
+ 
     return (
         <div id="about">
             <Container>
@@ -20,7 +14,7 @@ const About = () => {
                     <div className='about_leftBox'>
                         <h1>Hi, I'm Arshad Iqubal.</h1>
                         <p>I am Full Stack Web Developer and i have knowledge in HTML, CSS, JS,  REACT, React-native and make user-friendly websites.</p>
-                        <a href="https://drive.google.com/uc?export=download&id=1Tr4JaRtllSROzZWTEwdR4aAUXlfb5CLR">
+                        <a href="https://drive.google.com/uc?export=download&id=1g2H7AYckU4QljVOUHF0wysvU0AT10-jw">
                             <button>Download CV<DownloadIcon /></button>
                         </a>
 

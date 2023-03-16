@@ -8,12 +8,12 @@ const Github = () => {
             
             <h1 style={{ color: "#01a479", textTransform: "uppercase" }}>Days I Worked</h1>
             <Container>
-                <GithubCalendar username='mohitkss' year={new Date().getFullYear()} blockSize={15} blockMargin={5} fontSize={16} />
+                <GithubCalendar username='arss' year={new Date().getFullYear()} blockSize={15} blockMargin={5} fontSize={16} />
             </Container>
             <h1 style={{ color: "#01a479", textTransform: "uppercase" }}>My Statistics</h1>
             <div className='stats'>
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadiqubal17&show_icons=true&locale=en" alt="mohitkss" />
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadiqubal17&" alt="mohitkss" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api?username=arshadiqubal17&show_icons=true&locale=en" alt="arss" />
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arshadiqubal17&" alt="arss" />
             </div>
         </MainContainer>
     )
