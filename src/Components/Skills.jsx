@@ -4,11 +4,11 @@ import html from '../Resources/Images/LanguageImages/html5.png'
 import css from '../Resources/Images/LanguageImages/css3.png'
 import js from '../Resources/Images/LanguageImages/js.png'
 import git from '../Resources/Images/LanguageImages/git.png'
-import mongodb from '../Resources/Images/LanguageImages/mongodb.png'
+import reactnative from '../Resources/Images/LanguageImages/reactnative.png'
 import nodejs from '../Resources/Images/LanguageImages/nodejs.png'
 import react from '../Resources/Images/LanguageImages/react.png'
 import reactredux from '../Resources/Images/LanguageImages/redux.png'
-import mern from '../Resources/Images/LanguageImages/mern.png'
+// import mern from '../Resources/Images/LanguageImages/mern.png'
 const Skills = () => {
     const skills = [
         {
@@ -27,10 +27,10 @@ const Skills = () => {
             img:git,
             title:'Git/Github'
         },
-        {
-            img:mongodb,
-            title:'MongoDB'
-        },
+        // {
+        //     img:mongodb,
+        //     title:'MongoDB'
+        // },
         {
             img:nodejs,
             title:'NodeJS'
@@ -43,9 +43,13 @@ const Skills = () => {
             img:reactredux,
             title:'Redux'
         },
+        // {
+        //     img:mern,
+        //     title:'MERN'
+        // }
         {
-            img:mern,
-            title:'MERN'
+            img:reactnative,
+            title: 'React-native'
         }
     ]
 
