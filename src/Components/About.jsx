@@ -14,7 +14,7 @@ const About = () => {
                     <div className='about_leftBox'>
                         <h1>Hi, I'm Arshad Iqubal.</h1>
                         <p>I am Full Stack Web Developer and i have knowledge in HTML, CSS, JS,  REACT, React-native and make user-friendly websites.</p>
-                        <a href="https://drive.google.com/uc?export=download&id=1g2H7AYckU4QljVOUHF0wysvU0AT10-jw">
+                        <a href="https://drive.google.com/uc?export=download&id=1wlhc5UAjnj_QaZ_giM6T37g7WOmq3rnA">
                             <button>Download CV<DownloadIcon /></button>
                         </a>
 
